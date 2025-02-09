@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Set the directory thay holds our music files
+# Set the directory that holds your music files
 DIR="/path/to/music"
 
 # Check if the directory exists
